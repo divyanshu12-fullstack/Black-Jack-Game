@@ -1,0 +1,28 @@
+body{
+    background-image: url(image.png);
+    background-size: cover;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h1{
+    color: gold;
+}
+
+#message-el{
+    font-style: italic;
+    
+}
+
+button{
+    color: #016f32;
+    width: 130px;
+    height: 40px;
+    font-weight: bolder;
+    background: blanchedalmond;
+    color: black;
+    border-radius: 5px;
+}
